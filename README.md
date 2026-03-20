@@ -35,8 +35,6 @@
 </details>
 
 ## Usage
-> [!IMPORTANT]
-> This theme does not work on Windows, due to the fact that vtop is not supported on Windows.
 
 1. Download the flavor with the accent of your choice from `themes/<flavor>/catppuccin-<flavor>-<accent>.json`.
 2. Copy the file into your vtop themes directory `<Global node modules directory>/vtop/themes`, you can find your **Global node modules directory** by running `npm root -g`
